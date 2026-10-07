@@ -1,0 +1,521 @@
+id_colaborador,area,cargo,nivel,genero,fecha_ingreso,evaluacion_desempeno,haber_basico_bs
+C0001,Logística y Distribución,Chofer repartidor,Operativo,Hombre,1996-09-30,4,5480
+C0002,Producción,Operario de línea,Operativo,Mujer,1997-07-09,3,4350
+C0003,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,1999-01-06,3,3655
+C0004,Calidad,Inspector de calidad,Operativo,Mujer,2000-03-12,3,4113
+C0005,Producción,Operador de llenadora,Operativo,Hombre,2001-02-10,3,5089
+C0006,Producción,Operario de línea,Operativo,Hombre,2004-11-20,3,4316
+C0007,Ventas,Preventista,Operativo,Hombre,2004-12-26,3,4464
+C0008,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2006-06-18,4,4486
+C0009,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2006-09-29,5,8365
+C0010,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2006-11-23,3,4003
+C0011,Ventas,Mercaderista,Operativo,Mujer,2008-02-07,3,3349
+C0012,Producción,Auxiliar de producción,Operativo,Hombre,2008-11-11,5,4054
+C0013,Producción,Auxiliar de producción,Operativo,Hombre,2008-11-12,2,3682
+C0014,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2008-11-15,3,3737
+C0015,Producción,Operario de línea,Operativo,Mujer,2009-01-05,3,4777
+C0016,Producción,Operario de línea,Operativo,Hombre,2009-07-12,4,5579
+C0017,Producción,Auxiliar de producción,Operativo,Hombre,2010-03-14,5,3484
+C0018,Producción,Operario de línea,Operativo,Hombre,2010-09-16,3,4347
+C0019,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2011-03-06,3,5886
+C0020,Producción,Operador de llenadora,Operativo,Hombre,2011-08-27,3,5757
+C0021,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2011-11-17,3,7357
+C0022,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2012-05-03,2,4758
+C0023,Producción,Auxiliar de producción,Operativo,Hombre,2012-05-19,3,3786
+C0024,Producción,Operario de línea,Operativo,Hombre,2012-08-24,3,4623
+C0025,Ventas,Supervisor de ventas,Técnico y supervisión,Hombre,2012-11-21,3,8456
+C0026,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2013-01-28,5,5054
+C0027,Producción,Auxiliar de producción,Operativo,Mujer,2013-02-04,3,4065
+C0028,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2013-03-17,2,8058
+C0029,Producción,Operador de llenadora,Operativo,Hombre,2013-03-19,3,4497
+C0030,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2013-04-25,3,3745
+C0031,Producción,Operador de llenadora,Operativo,Hombre,2013-07-13,3,4592
+C0032,Producción,Operario de línea,Operativo,Hombre,2013-08-19,5,4673
+C0033,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2013-11-29,5,6448
+C0034,Producción,Operario de línea,Operativo,Hombre,2014-01-10,3,4370
+C0035,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2014-02-10,4,8262
+C0036,Producción,Supervisor de turno,Técnico y supervisión,Mujer,2014-02-20,2,7863
+C0037,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2014-03-20,4,4161
+C0038,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2014-04-09,3,8375
+C0039,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2014-04-24,3,3887
+C0040,Administración y Finanzas,Analista financiero,Profesional y jefatura,Mujer,2014-05-15,3,12088
+C0041,Ventas,Mercaderista,Operativo,Mujer,2014-05-16,3,4119
+C0042,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2014-06-18,3,7230
+C0043,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2014-07-21,3,4570
+C0044,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Hombre,2014-07-22,4,6411
+C0045,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2014-07-29,4,5345
+C0046,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2014-12-07,3,6319
+C0047,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2015-01-23,3,8049
+C0048,Producción,Auxiliar de producción,Operativo,Hombre,2015-02-10,3,3645
+C0049,Producción,Auxiliar de producción,Operativo,Mujer,2015-02-16,4,3813
+C0050,Producción,Auxiliar de producción,Operativo,Mujer,2015-03-23,4,3771
+C0051,Producción,Auxiliar de producción,Operativo,Hombre,2015-06-18,3,3771
+C0052,Producción,Operador de llenadora,Operativo,Hombre,2015-06-25,3,5100
+C0053,Producción,Operador de llenadora,Operativo,Hombre,2015-08-08,3,4842
+C0054,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2015-08-14,3,3972
+C0055,Producción,Operario de línea,Operativo,Hombre,2015-09-13,5,5193
+C0056,Producción,Auxiliar de producción,Operativo,Hombre,2015-09-27,3,4154
+C0057,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2015-10-07,3,4735
+C0058,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2015-10-29,4,4094
+C0059,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2016-01-10,4,5261
+C0060,Producción,Jefe de producción,Profesional y jefatura,Hombre,2016-01-12,4,19378
+C0061,Producción,Operario de línea,Operativo,Hombre,2016-01-17,1,4530
+C0062,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2016-03-07,3,4845
+C0063,Logística y Distribución,Ayudante de reparto,Operativo,Mujer,2016-03-13,4,3762
+C0064,Producción,Operario de línea,Operativo,Hombre,2016-03-14,3,4592
+C0065,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2016-05-11,4,4030
+C0066,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2016-05-20,3,4986
+C0067,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2016-05-29,3,4141
+C0068,Producción,Operario de línea,Operativo,Hombre,2016-07-16,3,4967
+C0069,Producción,Operador de llenadora,Operativo,Hombre,2016-10-07,4,4553
+C0070,Producción,Operario de línea,Operativo,Hombre,2016-12-12,5,5066
+C0071,Producción,Operador de llenadora,Operativo,Hombre,2017-01-02,5,4910
+C0072,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2017-02-21,4,3531
+C0073,Ventas,Preventista,Operativo,Hombre,2017-03-11,3,5461
+C0074,Producción,Operador de llenadora,Operativo,Hombre,2017-03-24,4,4887
+C0075,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,2017-04-04,3,5860
+C0076,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2017-04-05,4,3977
+C0077,Producción,Operador de llenadora,Operativo,Hombre,2017-04-19,3,4481
+C0078,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2017-06-27,4,5613
+C0079,Ventas,Preventista,Operativo,Hombre,2017-07-06,2,4217
+C0080,Administración y Finanzas,Analista financiero,Profesional y jefatura,Mujer,2017-07-11,3,11028
+C0081,Producción,Auxiliar de producción,Operativo,Hombre,2017-07-12,3,4084
+C0082,Administración y Finanzas,Auxiliar administrativo,Operativo,Hombre,2017-09-25,3,4277
+C0083,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2017-10-04,4,4310
+C0084,Producción,Operario de línea,Operativo,Hombre,2017-10-24,3,4147
+C0085,Producción,Auxiliar de producción,Operativo,Hombre,2017-10-28,4,3683
+C0086,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2017-11-21,4,8712
+C0087,Producción,Operario de línea,Operativo,Hombre,2017-12-08,4,4457
+C0088,Producción,Operario de línea,Operativo,Hombre,2018-01-17,2,4288
+C0089,Producción,Auxiliar de producción,Operativo,Mujer,2018-01-25,2,3981
+C0090,Administración y Finanzas,Cajero,Operativo,Mujer,2018-01-27,4,4197
+C0091,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2018-02-06,3,8221
+C0092,Ventas,Preventista,Operativo,Hombre,2018-02-08,3,4237
+C0093,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2018-02-14,4,7554
+C0094,Producción,Auxiliar de producción,Operativo,Mujer,2018-02-17,3,3920
+C0095,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2018-02-23,3,3660
+C0096,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2018-03-06,2,4599
+C0097,Producción,Auxiliar de producción,Operativo,Mujer,2018-03-28,2,4752
+C0098,Producción,Operador de llenadora,Operativo,Hombre,2018-04-19,3,5590
+C0099,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2018-04-23,4,3789
+C0100,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2018-04-30,4,3911
+C0101,Producción,Operario de línea,Operativo,Hombre,2018-05-22,4,4276
+C0102,Ventas,Preventista,Operativo,Mujer,2018-06-11,2,3967
+C0103,Producción,Operario de línea,Operativo,Mujer,2018-06-24,4,5712
+C0104,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2018-06-30,3,4638
+C0105,Administración y Finanzas,Auxiliar administrativo,Operativo,Hombre,2018-07-03,4,4314
+C0106,Producción,Operador de llenadora,Operativo,Mujer,2018-08-18,4,4733
+C0107,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2018-08-25,2,7229
+C0108,Ventas,Mercaderista,Operativo,Mujer,2018-08-27,4,3938
+C0109,Producción,Operador de llenadora,Operativo,Hombre,2018-09-22,5,4716
+C0110,Calidad,Inspector de calidad,Operativo,Mujer,2018-09-24,4,4488
+C0111,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2018-10-14,2,4007
+C0112,Ventas,Preventista,Operativo,Hombre,2018-10-17,3,4509
+C0113,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2018-10-27,4,3994
+C0114,Producción,Jefe de producción,Profesional y jefatura,Hombre,2018-11-15,2,16346
+C0115,Ventas,Mercaderista,Operativo,Hombre,2018-11-24,4,3959
+C0116,Ventas,Mercaderista,Operativo,Mujer,2018-12-10,2,3630
+C0117,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2019-01-07,3,3634
+C0118,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2019-01-13,4,3855
+C0119,Producción,Operario de línea,Operativo,Mujer,2019-01-20,4,4374
+C0120,Ventas,Preventista,Operativo,Hombre,2019-01-20,5,4484
+C0121,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2019-02-12,4,7993
+C0122,Producción,Operario de línea,Operativo,Mujer,2019-03-17,5,4464
+C0123,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,2019-03-29,5,7658
+C0124,Producción,Operario de línea,Operativo,Mujer,2019-04-10,4,4564
+C0125,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2019-06-06,3,7628
+C0126,Ventas,Preventista,Operativo,Hombre,2019-06-19,3,4367
+C0127,Ventas,Preventista,Operativo,Hombre,2019-07-07,3,4321
+C0128,Calidad,Inspector de calidad,Operativo,Mujer,2019-07-08,4,4823
+C0129,Producción,Operario de línea,Operativo,Mujer,2019-08-12,3,4161
+C0130,Ventas,Preventista,Operativo,Hombre,2019-08-23,4,4273
+C0131,Producción,Operario de línea,Operativo,Hombre,2019-08-28,4,4421
+C0132,Producción,Operario de línea,Operativo,Hombre,2019-10-05,5,4173
+C0133,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2019-11-28,2,4546
+C0134,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2019-11-30,3,7626
+C0135,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2019-12-09,3,4579
+C0136,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Mujer,2020-02-07,3,7081
+C0137,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2020-02-08,3,7451
+C0138,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,2020-03-02,3,5056
+C0139,Administración y Finanzas,Contador general,Profesional y jefatura,Hombre,2020-03-10,3,16150
+C0140,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2020-03-21,4,3289
+C0141,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2020-03-22,4,8116
+C0142,Producción,Ingeniero de procesos,Profesional y jefatura,Hombre,2020-04-08,3,11744
+C0143,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2020-05-18,4,4357
+C0144,Producción,Operario de línea,Operativo,Mujer,2020-05-24,2,4067
+C0145,Ventas,Analista comercial,Profesional y jefatura,Hombre,2020-06-12,4,11283
+C0146,Ventas,Analista comercial,Profesional y jefatura,Mujer,2020-06-16,3,10346
+C0147,Producción,Operario de línea,Operativo,Hombre,2020-06-18,2,4300
+C0148,Ventas,Preventista,Operativo,Hombre,2020-06-24,3,4616
+C0149,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2020-06-28,3,4584
+C0150,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2020-07-05,4,3704
+C0151,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2020-07-07,4,7363
+C0152,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2020-07-29,3,7697
+C0153,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2020-08-02,3,3750
+C0154,Producción,Operario de línea,Operativo,Mujer,2020-08-06,4,4242
+C0155,Producción,Operario de línea,Operativo,Hombre,2020-08-19,4,4234
+C0156,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2020-09-14,4,8197
+C0157,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2020-09-16,4,8102
+C0158,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2020-10-19,2,3716
+C0159,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2020-10-24,4,7688
+C0160,Producción,Operador de llenadora,Operativo,Hombre,2020-10-26,2,4534
+C0161,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2020-11-17,2,4427
+C0162,Producción,Operario de línea,Operativo,Hombre,2020-11-18,4,4369
+C0163,Administración y Finanzas,Auxiliar administrativo,Operativo,Hombre,2020-11-26,4,3986
+C0164,Producción,Operario de línea,Operativo,Hombre,2020-11-30,4,4377
+C0165,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2020-12-12,2,3578
+C0166,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2020-12-15,4,3495
+C0167,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2020-12-22,4,3601
+C0168,Producción,Operario de línea,Operativo,Mujer,2020-12-27,3,4037
+C0169,Producción,Operador de llenadora,Operativo,Hombre,2020-12-30,3,4469
+C0170,Ventas,Supervisor de ventas,Técnico y supervisión,Hombre,2020-12-31,4,8593
+C0171,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2021-01-10,3,7832
+C0172,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2021-01-13,4,7468
+C0173,Producción,Operario de línea,Operativo,Hombre,2021-01-17,2,4228
+C0174,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2021-01-17,4,6103
+C0175,Producción,Operario de línea,Operativo,Hombre,2021-02-27,4,3911
+C0176,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2021-03-03,2,6436
+C0177,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Mujer,2021-03-08,3,6630
+C0178,Producción,Operario de línea,Operativo,Mujer,2021-03-21,3,3892
+C0179,Producción,Jefe de producción,Profesional y jefatura,Hombre,2021-04-17,4,18133
+C0180,Producción,Auxiliar de producción,Operativo,Hombre,2021-04-27,4,3198
+C0181,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2021-04-29,3,4592
+C0182,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,2021-05-08,3,5323
+C0183,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2021-05-11,4,7336
+C0184,Ventas,Preventista,Operativo,Mujer,2021-06-04,4,3877
+C0185,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2021-06-13,2,3629
+C0186,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2021-06-20,3,4250
+C0187,Producción,Operador de llenadora,Operativo,Hombre,2021-06-24,3,4435
+C0188,Producción,Auxiliar de producción,Operativo,Mujer,2021-07-02,4,3693
+C0189,Producción,Operario de línea,Operativo,Hombre,2021-07-10,3,3782
+C0190,Producción,Auxiliar de producción,Operativo,Hombre,2021-08-05,2,3328
+C0191,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2021-08-15,2,7338
+C0192,Ventas,Preventista,Operativo,Mujer,2021-08-18,5,4391
+C0193,Administración y Finanzas,Asistente contable,Técnico y supervisión,Hombre,2021-09-12,4,6070
+C0194,Administración y Finanzas,Analista financiero,Profesional y jefatura,Mujer,2021-09-14,4,11434
+C0195,Producción,Auxiliar de producción,Operativo,Hombre,2021-09-23,3,3579
+C0196,Ventas,Preventista,Operativo,Mujer,2021-10-22,3,3996
+C0197,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2021-10-30,3,7480
+C0198,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2021-11-05,3,4887
+C0199,Producción,Ingeniero de procesos,Profesional y jefatura,Hombre,2021-11-18,2,10641
+C0200,Ventas,Mercaderista,Operativo,Mujer,2021-11-24,2,3317
+C0201,Ventas,Mercaderista,Operativo,Mujer,2021-12-05,3,3085
+C0202,Producción,Operario de línea,Operativo,Hombre,2021-12-16,3,3667
+C0203,Ventas,Mercaderista,Operativo,Mujer,2022-01-09,5,3484
+C0204,Calidad,Inspector de calidad,Operativo,Mujer,2022-01-10,4,4416
+C0205,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2022-01-14,4,3609
+C0206,Producción,Auxiliar de producción,Operativo,Hombre,2022-01-18,4,3326
+C0207,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-01-21,3,4802
+C0208,Producción,Auxiliar de producción,Operativo,Mujer,2022-01-25,3,3482
+C0209,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2022-02-14,4,3454
+C0210,Logística y Distribución,Jefe de logística,Profesional y jefatura,Hombre,2022-02-16,2,17222
+C0211,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2022-03-03,4,3752
+C0212,Ventas,Preventista,Operativo,Mujer,2022-03-09,3,3902
+C0213,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-03-13,2,4152
+C0214,Producción,Operario de línea,Operativo,Hombre,2022-03-27,4,4466
+C0215,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2022-04-30,3,3524
+C0216,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2022-04-30,3,3456
+C0217,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2022-06-01,4,7754
+C0218,Administración y Finanzas,Analista financiero,Profesional y jefatura,Hombre,2022-06-01,4,10729
+C0219,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2022-06-06,3,3522
+C0220,Producción,Ingeniero de procesos,Profesional y jefatura,Hombre,2022-06-07,3,12372
+C0221,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-06-12,2,4255
+C0222,Ventas,Supervisor de ventas,Técnico y supervisión,Hombre,2022-06-28,3,7373
+C0223,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-07-01,2,4600
+C0224,Calidad,Inspector de calidad,Operativo,Mujer,2022-07-20,5,4308
+C0225,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-08-04,3,4476
+C0226,Producción,Auxiliar de producción,Operativo,Hombre,2022-09-14,3,3434
+C0227,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2022-09-16,4,7882
+C0228,Producción,Operario de línea,Operativo,Hombre,2022-10-08,3,4001
+C0229,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2022-10-15,3,3527
+C0230,Producción,Auxiliar de producción,Operativo,Hombre,2022-10-26,4,3770
+C0231,Producción,Operario de línea,Operativo,Hombre,2022-10-30,3,3755
+C0232,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2022-11-08,4,4383
+C0233,Producción,Auxiliar de producción,Operativo,Mujer,2022-11-28,1,3307
+C0234,Ventas,Preventista,Operativo,Hombre,2022-11-28,2,4046
+C0235,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2022-12-03,2,3206
+C0236,Administración y Finanzas,Cajero,Operativo,Mujer,2022-12-06,1,3949
+C0237,Producción,Operador de llenadora,Operativo,Mujer,2022-12-11,4,4236
+C0238,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2023-01-07,4,7830
+C0239,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2023-01-14,3,4247
+C0240,Producción,Operador de llenadora,Operativo,Hombre,2023-01-16,4,4095
+C0241,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2023-01-21,3,3052
+C0242,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2023-01-23,4,7793
+C0243,Ventas,Preventista,Operativo,Hombre,2023-01-24,3,3884
+C0244,Producción,Operador de llenadora,Operativo,Hombre,2023-01-28,3,4503
+C0245,Producción,Operario de línea,Operativo,Hombre,2023-01-30,3,3563
+C0246,Producción,Operador de llenadora,Operativo,Hombre,2023-01-31,4,4695
+C0247,Producción,Operario de línea,Operativo,Hombre,2023-02-02,2,3863
+C0248,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2023-02-22,4,5373
+C0249,Producción,Operario de línea,Operativo,Mujer,2023-03-23,3,4034
+C0250,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2023-03-29,4,6750
+C0251,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Hombre,2023-04-21,2,5578
+C0252,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2023-04-22,3,3700
+C0253,Ventas,Preventista,Operativo,Mujer,2023-05-06,4,4318
+C0254,Producción,Operario de línea,Operativo,Hombre,2023-05-13,3,4199
+C0255,Producción,Operario de línea,Operativo,Hombre,2023-05-13,3,4183
+C0256,Ventas,Mercaderista,Operativo,Hombre,2023-05-14,3,3493
+C0257,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Hombre,2023-06-03,2,6259
+C0258,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2023-06-16,5,3437
+C0259,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2023-06-23,3,7463
+C0260,Calidad,Inspector de calidad,Operativo,Mujer,2023-07-06,4,4031
+C0261,Calidad,Inspector de calidad,Operativo,Mujer,2023-07-26,3,3733
+C0262,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2023-08-06,3,6056
+C0263,Ventas,Preventista,Operativo,Hombre,2023-08-12,1,3921
+C0264,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2023-08-12,4,4315
+C0265,Producción,Operario de línea,Operativo,Hombre,2023-08-23,3,3862
+C0266,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2023-09-03,2,7207
+C0267,Producción,Auxiliar de producción,Operativo,Hombre,2023-09-13,4,3630
+C0268,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2023-09-22,3,4224
+C0269,Producción,Operario de línea,Operativo,Hombre,2023-09-24,5,4152
+C0270,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2023-09-27,4,3604
+C0271,Producción,Operario de línea,Operativo,Hombre,2023-10-11,3,4001
+C0272,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2023-10-21,4,7397
+C0273,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2023-10-25,4,3405
+C0274,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2023-10-28,3,4555
+C0275,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2023-11-05,3,4450
+C0276,Ventas,Mercaderista,Operativo,Mujer,2023-11-07,3,3373
+C0277,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2023-11-10,4,3872
+C0278,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2023-11-14,4,3506
+C0279,Producción,Ingeniero de procesos,Profesional y jefatura,Mujer,2023-11-16,2,10940
+C0280,Producción,Auxiliar de producción,Operativo,Mujer,2023-11-22,3,3605
+C0281,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2023-11-25,4,7631
+C0282,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Hombre,2023-12-10,3,15308
+C0283,Ventas,Mercaderista,Operativo,Mujer,2023-12-13,1,3033
+C0284,Producción,Operario de línea,Operativo,Mujer,2023-12-17,2,3878
+C0285,Calidad,Jefe de calidad,Profesional y jefatura,Mujer,2023-12-26,3,15807
+C0286,Producción,Supervisor de turno,Técnico y supervisión,Mujer,2023-12-30,2,6952
+C0287,Administración y Finanzas,Cajero,Operativo,Mujer,2024-01-11,4,3920
+C0288,Producción,Operario de línea,Operativo,Mujer,2024-01-15,3,3690
+C0289,Producción,Ingeniero de procesos,Profesional y jefatura,Hombre,2024-01-17,5,12885
+C0290,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2024-01-22,4,7283
+C0291,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-01-23,4,4279
+C0292,Ventas,Preventista,Operativo,Hombre,2024-01-24,3,3867
+C0293,Producción,Operario de línea,Operativo,Hombre,2024-01-27,4,3983
+C0294,Producción,Auxiliar de producción,Operativo,Hombre,2024-01-29,4,3630
+C0295,Producción,Operador de llenadora,Operativo,Mujer,2024-01-30,2,4425
+C0296,Producción,Operador de llenadora,Operativo,Hombre,2024-02-04,2,3819
+C0297,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2024-02-16,4,7545
+C0298,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2024-02-18,4,3817
+C0299,Administración y Finanzas,Cajero,Operativo,Mujer,2024-02-18,4,3696
+C0300,Producción,Auxiliar de producción,Operativo,Hombre,2024-02-21,4,3565
+C0301,Producción,Operador de llenadora,Operativo,Hombre,2024-02-24,4,4326
+C0302,Ventas,Mercaderista,Operativo,Mujer,2024-02-25,3,3431
+C0303,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2024-03-07,3,5780
+C0304,Producción,Operador de llenadora,Operativo,Hombre,2024-03-09,2,4201
+C0305,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2024-03-12,3,3692
+C0306,Ventas,Preventista,Operativo,Hombre,2024-03-20,2,3837
+C0307,Producción,Operario de línea,Operativo,Mujer,2024-03-28,4,4573
+C0308,Administración y Finanzas,Contador general,Profesional y jefatura,Hombre,2024-03-29,2,13159
+C0309,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-04-01,4,3185
+C0310,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,2024-04-05,5,6073
+C0311,Producción,Operador de llenadora,Operativo,Hombre,2024-04-06,3,4433
+C0312,Ventas,Mercaderista,Operativo,Mujer,2024-04-07,2,3206
+C0313,Producción,Operario de línea,Operativo,Hombre,2024-04-11,4,3926
+C0314,Ventas,Preventista,Operativo,Hombre,2024-04-16,5,3955
+C0315,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Hombre,2024-04-20,3,6462
+C0316,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,2024-04-22,2,6050
+C0317,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-04-24,2,3137
+C0318,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-04-24,4,3516
+C0319,Producción,Operario de línea,Operativo,Mujer,2024-05-04,3,3680
+C0320,Ventas,Preventista,Operativo,Hombre,2024-05-07,4,3899
+C0321,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Hombre,2024-05-07,3,14117
+C0322,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2024-05-08,3,7462
+C0323,Calidad,Jefe de calidad,Profesional y jefatura,Hombre,2024-05-18,3,14257
+C0324,Administración y Finanzas,Cajero,Operativo,Mujer,2024-05-19,4,3509
+C0325,Calidad,Inspector de calidad,Operativo,Hombre,2024-05-26,3,4028
+C0326,Producción,Operador de llenadora,Operativo,Hombre,2024-06-06,3,4175
+C0327,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,2024-06-07,3,6320
+C0328,Ventas,Preventista,Operativo,Hombre,2024-06-17,4,4101
+C0329,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-06-23,3,4108
+C0330,Ventas,Preventista,Operativo,Mujer,2024-06-27,3,3414
+C0331,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2024-06-30,3,3691
+C0332,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-07-05,4,4264
+C0333,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2024-07-06,3,7457
+C0334,Logística y Distribución,Jefe de logística,Profesional y jefatura,Hombre,2024-07-16,4,14772
+C0335,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-07-16,4,3897
+C0336,Ventas,Preventista,Operativo,Hombre,2024-07-20,3,3905
+C0337,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-08-12,4,3227
+C0338,Administración y Finanzas,Cajero,Operativo,Mujer,2024-08-17,3,3883
+C0339,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2024-08-18,4,3518
+C0340,Producción,Auxiliar de producción,Operativo,Mujer,2024-08-21,4,3191
+C0341,Producción,Operario de línea,Operativo,Hombre,2024-08-29,3,3650
+C0342,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2024-09-11,2,3172
+C0343,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2024-09-12,3,3825
+C0344,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,2024-09-13,3,5025
+C0345,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2024-09-28,3,6800
+C0346,Ventas,Jefe comercial,Profesional y jefatura,Hombre,2024-09-28,4,17340
+C0347,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2024-10-02,3,7398
+C0348,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Hombre,2024-10-05,3,14820
+C0349,Producción,Operador de llenadora,Operativo,Hombre,2024-10-19,4,4140
+C0350,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-11-03,1,3822
+C0351,Ventas,Analista comercial,Profesional y jefatura,Hombre,2024-11-07,2,8251
+C0352,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-11-15,4,4274
+C0353,Administración y Finanzas,Cajero,Operativo,Mujer,2024-11-21,4,4229
+C0354,Producción,Ingeniero de procesos,Profesional y jefatura,Mujer,2024-11-22,2,11400
+C0355,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2024-11-24,2,5156
+C0356,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2024-12-03,3,5059
+C0357,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2024-12-06,3,3381
+C0358,Mantenimiento,Ayudante de mantenimiento,Operativo,Hombre,2024-12-09,3,3638
+C0359,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,2024-12-12,4,5321
+C0360,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2024-12-14,4,4205
+C0361,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2024-12-27,5,5652
+C0362,Producción,Operario de línea,Operativo,Hombre,2024-12-27,3,3968
+C0363,Ventas,Preventista,Operativo,Hombre,2024-12-31,5,3840
+C0364,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2025-01-01,3,3307
+C0365,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Hombre,2025-01-03,2,13787
+C0366,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-01-15,4,3420
+C0367,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2025-01-17,4,3502
+C0368,Producción,Auxiliar de producción,Operativo,Hombre,2025-01-18,2,3199
+C0369,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,2025-01-19,2,6757
+C0370,Ventas,Mercaderista,Operativo,Hombre,2025-01-23,4,3202
+C0371,Ventas,Preventista,Operativo,Mujer,2025-01-26,3,3872
+C0372,Ventas,Mercaderista,Operativo,Hombre,2025-01-27,3,3101
+C0373,Logística y Distribución,Jefe de logística,Profesional y jefatura,Hombre,2025-01-28,3,14805
+C0374,Producción,Auxiliar de producción,Operativo,Mujer,2025-01-31,3,3405
+C0375,Producción,Operador de llenadora,Operativo,Hombre,2025-02-02,4,3959
+C0376,Producción,Operario de línea,Operativo,Hombre,2025-02-10,4,4097
+C0377,Producción,Operador de llenadora,Operativo,Hombre,2025-02-15,4,4266
+C0378,Producción,Operario de línea,Operativo,Hombre,2025-02-26,3,3623
+C0379,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2025-03-03,5,6925
+C0380,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2025-03-06,3,7232
+C0381,Producción,Operario de línea,Operativo,Mujer,2025-03-18,3,3912
+C0382,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,2025-03-21,4,3641
+C0383,Producción,Auxiliar de producción,Operativo,Mujer,2025-03-29,4,3380
+C0384,Ventas,Mercaderista,Operativo,Mujer,2025-04-11,2,3367
+C0385,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2025-04-13,2,5304
+C0386,Producción,Auxiliar de producción,Operativo,Mujer,2025-04-13,3,3643
+C0387,Producción,Auxiliar de producción,Operativo,Mujer,2025-04-15,4,3805
+C0388,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-04-16,5,3718
+C0389,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2025-04-25,3,3031
+C0390,Producción,Auxiliar de producción,Operativo,Mujer,2025-04-27,3,3240
+C0391,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-05-02,2,3301
+C0392,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2025-05-05,2,4060
+C0393,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2025-05-06,3,5353
+C0394,Producción,Operario de línea,Operativo,Mujer,2025-05-23,3,3925
+C0395,Producción,Operario de línea,Operativo,Mujer,2025-05-24,4,3848
+C0396,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-06-01,4,2880
+C0397,Ventas,Preventista,Operativo,Hombre,2025-06-08,4,4085
+C0398,Producción,Operador de llenadora,Operativo,Hombre,2025-06-15,4,4406
+C0399,Mantenimiento,Técnico mecánico,Técnico y supervisión,Hombre,2025-06-15,2,6866
+C0400,Ventas,Preventista,Operativo,Mujer,2025-06-22,4,4216
+C0401,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2025-06-23,5,4061
+C0402,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2025-06-24,3,7076
+C0403,Producción,Operador de llenadora,Operativo,Hombre,2025-07-05,2,4102
+C0404,Producción,Operario de línea,Operativo,Hombre,2025-07-06,4,3567
+C0405,Producción,Operador de llenadora,Operativo,Hombre,2025-07-14,4,4233
+C0406,Calidad,Inspector de calidad,Operativo,Mujer,2025-07-16,3,3673
+C0407,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2025-07-23,3,3350
+C0408,Producción,Operario de línea,Operativo,Mujer,2025-07-28,4,3732
+C0409,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2025-07-30,2,4321
+C0410,Producción,Operario de línea,Operativo,Hombre,2025-08-07,4,3743
+C0411,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2025-08-10,3,4737
+C0412,Producción,Operario de línea,Operativo,Hombre,2025-08-10,3,4017
+C0413,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-08-11,3,3440
+C0414,Calidad,Inspector de calidad,Operativo,Mujer,2025-08-15,4,3802
+C0415,Producción,Auxiliar de producción,Operativo,Mujer,2025-08-16,4,3618
+C0416,Producción,Operario de línea,Operativo,Hombre,2025-08-21,1,3797
+C0417,Producción,Operario de línea,Operativo,Hombre,2025-08-28,4,3833
+C0418,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2025-09-02,3,3828
+C0419,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Hombre,2025-09-03,3,6841
+C0420,Producción,Operador de llenadora,Operativo,Hombre,2025-09-09,3,4169
+C0421,Producción,Operario de línea,Operativo,Mujer,2025-09-14,3,3850
+C0422,Producción,Operario de línea,Operativo,Hombre,2025-10-22,2,4268
+C0423,Calidad,Inspector de calidad,Operativo,Hombre,2025-10-23,2,3895
+C0424,Calidad,Inspector de calidad,Operativo,Mujer,2025-10-25,4,3781
+C0425,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2025-10-26,4,5466
+C0426,Producción,Operario de línea,Operativo,Hombre,2025-10-28,4,4080
+C0427,Calidad,Inspector de calidad,Operativo,Mujer,2025-11-09,5,3837
+C0428,Producción,Operario de línea,Operativo,Mujer,2025-11-10,4,4207
+C0429,Ventas,Mercaderista,Operativo,Hombre,2025-11-22,3,3128
+C0430,Ventas,Mercaderista,Operativo,Mujer,2025-11-24,3,3288
+C0431,Calidad,Jefe de calidad,Profesional y jefatura,Hombre,2025-11-25,5,15153
+C0432,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-11-26,3,3108
+C0433,Administración y Finanzas,Jefe de RRHH,Profesional y jefatura,Mujer,2025-11-27,4,13319
+C0434,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2025-11-29,4,3664
+C0435,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2025-12-01,4,7386
+C0436,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2025-12-02,4,3478
+C0437,Producción,Supervisor de turno,Técnico y supervisión,Mujer,2025-12-03,3,6515
+C0438,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,2025-12-05,3,6567
+C0439,Calidad,Inspector de calidad,Operativo,Mujer,2025-12-06,2,3186
+C0440,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2025-12-07,3,6935
+C0441,Producción,Operario de línea,Operativo,Hombre,2025-12-10,3,4348
+C0442,Mantenimiento,Jefe de mantenimiento,Profesional y jefatura,Hombre,2025-12-11,3,13760
+C0443,Producción,Operador de llenadora,Operativo,Hombre,2025-12-16,1,4484
+C0444,Producción,Auxiliar de producción,Operativo,Mujer,2025-12-16,5,3461
+C0445,Ventas,Mercaderista,Operativo,Mujer,2025-12-21,3,3136
+C0446,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,2025-12-25,4,5381
+C0447,Producción,Operador de llenadora,Operativo,Hombre,2026-01-03,4,4755
+C0448,Ventas,Preventista,Operativo,Hombre,2026-01-04,3,3822
+C0449,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2026-01-08,2,6960
+C0450,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2026-01-09,4,3390
+C0451,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2026-01-11,3,3459
+C0452,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2026-01-12,2,6772
+C0453,Producción,Operario de línea,Operativo,Hombre,2026-01-15,3,4596
+C0454,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,2026-01-17,3,4861
+C0455,Producción,Operario de línea,Operativo,Hombre,2026-01-23,2,4079
+C0456,Producción,Operador de llenadora,Operativo,Hombre,2026-02-10,3,4765
+C0457,Producción,Auxiliar de producción,Operativo,Mujer,2026-02-19,3,3361
+C0458,Ventas,Mercaderista,Operativo,Mujer,2026-02-19,4,2871
+C0459,Producción,Operario de línea,Operativo,Hombre,2026-02-20,4,4270
+C0460,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2026-02-23,3,3502
+C0461,Producción,Operador de llenadora,Operativo,Hombre,2026-02-23,4,4826
+C0462,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2026-02-27,4,3482
+C0463,Producción,Supervisor de turno,Técnico y supervisión,Mujer,2026-02-28,4,6498
+C0464,Ventas,Supervisor de ventas,Técnico y supervisión,Hombre,2026-03-01,4,7348
+C0465,Producción,Auxiliar de producción,Operativo,Mujer,2026-03-03,2,3507
+C0466,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2026-03-06,3,4710
+C0467,Producción,Operario de línea,Operativo,Hombre,2026-03-10,3,4336
+C0468,Producción,Auxiliar de producción,Operativo,Mujer,2026-03-11,4,3455
+C0469,Producción,Operador de llenadora,Operativo,Hombre,2026-03-18,3,4503
+C0470,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2026-03-19,5,3650
+C0471,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Hombre,2026-03-20,3,6178
+C0472,Producción,Operario de línea,Operativo,Mujer,2026-03-26,3,4325
+C0473,Ventas,Preventista,Operativo,Mujer,2026-04-05,3,3772
+C0474,Ventas,Preventista,Operativo,Mujer,2026-04-06,3,3928
+C0475,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2026-04-07,4,4827
+C0476,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2026-04-07,4,3141
+C0477,Producción,Operario de línea,Operativo,Hombre,2026-04-08,4,4197
+C0478,Producción,Auxiliar de producción,Operativo,Mujer,2026-04-21,4,3166
+C0479,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2026-04-22,4,3403
+C0480,Producción,Operario de línea,Operativo,Hombre,2026-04-25,4,4235
+C0481,Logística y Distribución,Jefe de logística,Profesional y jefatura,Hombre,2026-04-26,3,14706
+C0482,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2026-04-27,4,3205
+C0483,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,2026-05-09,2,2965
+C0484,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2026-05-14,2,4631
+C0485,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2026-05-16,3,3147
+C0486,Producción,Operario de línea,Operativo,Hombre,2026-05-18,3,4222
+C0487,Producción,Operador de llenadora,Operativo,Hombre,2026-05-20,4,4583
+C0488,Producción,Operador de llenadora,Operativo,Mujer,2026-05-24,3,4567
+C0489,Logística y Distribución,Chofer repartidor,Operativo,Hombre,2026-05-31,3,4735
+C0490,Mantenimiento,Técnico mecánico,Técnico y supervisión,Mujer,2026-06-08,2,5887
+C0491,Producción,Operador de llenadora,Operativo,Hombre,2026-06-11,3,4722
+C0492,Logística y Distribución,Auxiliar de almacén,Operativo,Hombre,2026-06-15,3,3421
+C0493,Ventas,Preventista,Operativo,Hombre,2026-06-20,4,3704
+C0494,Producción,Auxiliar de producción,Operativo,Mujer,2026-06-24,4,3427
+C0495,Producción,Operador de llenadora,Operativo,Hombre,2026-07-01,3,4602
+C0496,Producción,Operario de línea,Operativo,Hombre,2026-07-02,4,4270
+C0497,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,2026-07-10,2,5354
+C0498,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2026-07-15,3,7310
+C0499,Ventas,Mercaderista,Operativo,Mujer,2026-07-17,4,3252
+C0500,Producción,Supervisor de turno,Técnico y supervisión,Hombre,2026-08-02,2,6799
+C0501,Administración y Finanzas,Analista financiero,Profesional y jefatura,Mujer,2026-08-07,4,9563
+C0502,Producción,Operario de línea,Operativo,Mujer,2026-08-09,5,4076
+C0503,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2026-08-13,2,6792
+C0504,Producción,Operario de línea,Operativo,Hombre,2026-08-15,4,4105
+C0505,Logística y Distribución,Supervisor de distribución,Técnico y supervisión,Hombre,2026-08-22,2,7156
+C0506,Ventas,Mercaderista,Operativo,Mujer,2026-08-27,4,3299
+C0507,Producción,Operario de línea,Operativo,Hombre,2026-08-28,5,4298
+C0508,Calidad,Analista de laboratorio,Técnico y supervisión,Hombre,2026-08-29,3,6213
+C0509,Logística y Distribución,Jefe de logística,Profesional y jefatura,Hombre,2026-08-30,5,15527
+C0510,Producción,Operador de llenadora,Operativo,Hombre,2026-08-31,4,4818
+C0511,Producción,Auxiliar de producción,Operativo,Mujer,2026-08-31,1,3224
+C0512,Producción,Ingeniero de procesos,Profesional y jefatura,Hombre,2026-09-02,3,11316
+C0513,Producción,Operario de línea,Operativo,Hombre,2026-09-07,4,4277
+C0514,Ventas,Mercaderista,Operativo,Mujer,2026-09-19,3,3307
+C0515,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,2026-09-20,4,3330
+C0516,Producción,Supervisor de turno,Técnico y supervisión,Mujer,2026-09-20,3,5877
+C0517,Producción,Operario de línea,Operativo,Mujer,2026-09-21,4,4345
+C0518,Ventas,Preventista,Operativo,Hombre,2026-09-22,3,3647
+C0519,Ventas,Mercaderista,Operativo,Mujer,2026-09-23,4,3218
+C0520,Ventas,Preventista,Operativo,Mujer,2026-09-29,4,3665

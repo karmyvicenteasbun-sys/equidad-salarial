@@ -1,0 +1,32 @@
+cargo,area,nivel,minimo_bs,punto_medio_bs,maximo_bs
+Operario de línea,Producción,Operativo,3723,4380,5037
+Operador de llenadora,Producción,Operativo,4097,4820,5543
+Auxiliar de producción,Producción,Operativo,3094,3640,4186
+Supervisor de turno,Producción,Técnico y supervisión,6144,7680,9216
+Jefe de producción,Producción,Profesional y jefatura,13185,17580,21975
+Ingeniero de procesos,Producción,Profesional y jefatura,8970,11960,14950
+Chofer repartidor,Logística y Distribución,Operativo,4165,4900,5635
+Ayudante de reparto,Logística y Distribución,Operativo,2958,3480,4002
+Auxiliar de almacén,Logística y Distribución,Operativo,3162,3720,4278
+Supervisor de distribución,Logística y Distribución,Técnico y supervisión,6144,7680,9216
+Encargado de almacén,Logística y Distribución,Técnico y supervisión,5376,6720,8064
+Jefe de logística,Logística y Distribución,Profesional y jefatura,12120,16160,20200
+Preventista,Ventas,Operativo,3519,4140,4761
+Mercaderista,Ventas,Operativo,2958,3480,4002
+Supervisor de ventas,Ventas,Técnico y supervisión,6320,7900,9480
+Jefe comercial,Ventas,Profesional y jefatura,13710,18280,22850
+Analista comercial,Ventas,Profesional y jefatura,7590,10120,12650
+Ayudante de mantenimiento,Mantenimiento,Operativo,3264,3840,4416
+Técnico mecánico,Mantenimiento,Técnico y supervisión,5856,7320,8784
+Técnico eléctrico,Mantenimiento,Técnico y supervisión,5968,7460,8952
+Jefe de mantenimiento,Mantenimiento,Profesional y jefatura,11595,15460,19325
+Inspector de calidad,Calidad,Operativo,3434,4040,4646
+Analista de laboratorio,Calidad,Técnico y supervisión,5376,6720,8064
+Jefe de calidad,Calidad,Profesional y jefatura,11595,15460,19325
+Auxiliar administrativo,Administración y Finanzas,Operativo,3264,3840,4416
+Cajero,Administración y Finanzas,Operativo,3434,4040,4646
+Asistente contable,Administración y Finanzas,Técnico y supervisión,4976,6220,7464
+Asistente de RRHH,Administración y Finanzas,Técnico y supervisión,4976,6220,7464
+Contador general,Administración y Finanzas,Profesional y jefatura,11070,14760,18450
+Jefe de RRHH,Administración y Finanzas,Profesional y jefatura,11070,14760,18450
+Analista financiero,Administración y Finanzas,Profesional y jefatura,7905,10540,13175

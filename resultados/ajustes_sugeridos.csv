@@ -1,0 +1,138 @@
+prioridad,id_colaborador,area,cargo,nivel,genero,motivo,haber_basico_bs,haber_sugerido_bs,ajuste_mensual_bs,ajuste_pct,costo_anual_bs
+1,C0138,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5056,6361,1305,25.8,20887
+1,C0356,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5059,6357,1298,25.7,20775
+1,C0411,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,4737,5777,1040,22.0,16645
+1,C0316,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,6050,7327,1277,21.1,20439
+1,C0355,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5156,6219,1063,20.6,17014
+1,C0516,Producción,Supervisor de turno,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5877,7012,1135,19.3,18166
+1,C0327,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,Brecha no explicada,6320,7476,1156,18.3,18502
+1,C0344,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,Brecha no explicada,5025,5943,918,18.3,14693
+1,C0078,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5613,6624,1011,18.0,16181
+1,C0454,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,4861,5731,870,17.9,13925
+1,C0033,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada,6448,7590,1142,17.7,18278
+1,C0182,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,Brecha no explicada,5323,6260,937,17.6,14997
+1,C0385,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5304,6178,874,16.5,13989
+1,C0177,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Mujer,Brecha no explicada,6630,7715,1085,16.4,17366
+1,C0019,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5886,6778,892,15.2,14277
+1,C0248,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5373,6157,784,14.6,12548
+1,C0359,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,Brecha no explicada,5321,6051,730,13.7,11684
+1,C0490,Mantenimiento,Técnico mecánico,Técnico y supervisión,Mujer,Brecha no explicada,5887,6671,784,13.3,12548
+1,C0174,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada,6103,6902,799,13.1,12788
+1,C0497,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada + Debajo del mínimo,5354,6039,685,12.8,10964
+1,C0075,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,Brecha no explicada,5860,6575,715,12.2,11444
+1,C0463,Producción,Supervisor de turno,Técnico y supervisión,Mujer,Brecha no explicada,6498,7245,747,11.5,11956
+1,C0303,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada,5780,6437,657,11.4,10515
+1,C0438,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,Brecha no explicada,6567,7282,715,10.9,11444
+1,C0136,Mantenimiento,Técnico eléctrico,Técnico y supervisión,Mujer,Brecha no explicada,7081,7826,745,10.5,11924
+1,C0446,Administración y Finanzas,Asistente de RRHH,Técnico y supervisión,Mujer,Brecha no explicada,5381,5940,559,10.4,8947
+1,C0123,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,Brecha no explicada,7658,8423,765,10.0,12244
+1,C0437,Producción,Supervisor de turno,Técnico y supervisión,Mujer,Brecha no explicada,6515,7117,602,9.2,9635
+1,C0393,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5353,5804,451,8.4,7218
+1,C0361,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5652,6106,454,8.0,7266
+1,C0425,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,5466,5884,418,7.6,6690
+1,C0262,Calidad,Analista de laboratorio,Técnico y supervisión,Mujer,Brecha no explicada,6056,6499,443,7.3,7090
+1,C0369,Ventas,Supervisor de ventas,Técnico y supervisión,Mujer,Brecha no explicada,6757,7234,477,7.1,7634
+1,C0046,Administración y Finanzas,Asistente contable,Técnico y supervisión,Mujer,Brecha no explicada,6319,6628,309,4.9,4946
+1,C0286,Producción,Supervisor de turno,Técnico y supervisión,Mujer,Brecha no explicada,6952,7198,246,3.5,3937
+1,C0310,Logística y Distribución,Encargado de almacén,Técnico y supervisión,Mujer,Brecha no explicada,6073,6261,188,3.1,3009
+1,C0036,Producción,Supervisor de turno,Técnico y supervisión,Mujer,Brecha no explicada,7863,8080,217,2.8,3473
+2,C0350,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,3822,4722,900,23.5,14405
+2,C0418,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,3828,4722,894,23.4,14309
+2,C0296,Producción,Operador de llenadora,Operativo,Hombre,Debajo del mínimo + Compresión,3819,4662,843,22.1,13492
+2,C0245,Producción,Operario de línea,Operativo,Hombre,Debajo del mínimo + Compresión,3563,4269,706,19.8,11300
+2,C0404,Producción,Operario de línea,Operativo,Hombre,Debajo del mínimo + Compresión,3567,4269,702,19.7,11236
+2,C0375,Producción,Operador de llenadora,Operativo,Hombre,Debajo del mínimo + Compresión,3959,4662,703,17.8,11252
+2,C0378,Producción,Operario de línea,Operativo,Hombre,Debajo del mínimo + Compresión,3623,4269,646,17.8,10339
+2,C0341,Producción,Operario de línea,Operativo,Hombre,Debajo del mínimo + Compresión,3650,4269,619,17.0,9907
+2,C0202,Producción,Operario de línea,Operativo,Hombre,Debajo del mínimo + Compresión,3667,4269,602,16.4,9635
+2,C0392,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,4060,4722,662,16.3,10595
+2,C0401,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,4061,4722,661,16.3,10579
+2,C0319,Producción,Operario de línea,Operativo,Mujer,Debajo del mínimo + Compresión,3680,4269,589,16.0,9427
+2,C0288,Producción,Operario de línea,Operativo,Mujer,Debajo del mínimo + Compresión,3690,4269,579,15.7,9267
+2,C0329,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,4108,4722,614,14.9,9827
+2,C0240,Producción,Operador de llenadora,Operativo,Hombre,Debajo del mínimo + Compresión,4095,4662,567,13.8,9075
+2,C0213,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Debajo del mínimo + Compresión,4152,4722,570,13.7,9123
+2,C0439,Calidad,Inspector de calidad,Operativo,Mujer,Debajo del mínimo,3186,3434,248,7.8,3969
+2,C0483,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,Debajo del mínimo,2965,3162,197,6.6,3153
+2,C0389,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,Debajo del mínimo,3031,3162,131,4.3,2097
+2,C0241,Logística y Distribución,Auxiliar de almacén,Operativo,Mujer,Debajo del mínimo,3052,3162,110,3.6,1761
+2,C0330,Ventas,Preventista,Operativo,Mujer,Debajo del mínimo,3414,3519,105,3.1,1681
+2,C0458,Ventas,Mercaderista,Operativo,Mujer,Debajo del mínimo,2871,2958,87,3.0,1392
+2,C0342,Administración y Finanzas,Auxiliar administrativo,Operativo,Mujer,Debajo del mínimo,3172,3264,92,2.9,1472
+2,C0396,Logística y Distribución,Ayudante de reparto,Operativo,Hombre,Debajo del mínimo,2880,2958,78,2.7,1248
+3,C0408,Producción,Operario de línea,Operativo,Mujer,Compresión,3732,4269,537,14.4,8595
+3,C0410,Producción,Operario de línea,Operativo,Hombre,Compresión,3743,4269,526,14.1,8419
+3,C0231,Producción,Operario de línea,Operativo,Hombre,Compresión,3755,4269,514,13.7,8227
+3,C0403,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4102,4662,560,13.7,8963
+3,C0189,Producción,Operario de línea,Operativo,Hombre,Compresión,3782,4269,487,12.9,7795
+3,C0349,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4140,4662,522,12.6,8355
+3,C0416,Producción,Operario de línea,Operativo,Hombre,Compresión,3797,4269,472,12.4,7554
+3,C0360,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4205,4722,517,12.3,8275
+3,C0268,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4224,4722,498,11.8,7971
+3,C0420,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4169,4662,493,11.8,7891
+3,C0326,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4175,4662,487,11.7,7795
+3,C0417,Producción,Operario de línea,Operativo,Hombre,Compresión,3833,4269,436,11.4,6978
+3,C0239,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4247,4722,475,11.2,7602
+3,C0186,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4250,4722,472,11.1,7554
+3,C0221,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4255,4722,467,11.0,7474
+3,C0304,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4201,4662,461,11.0,7378
+3,C0395,Producción,Operario de línea,Operativo,Mujer,Compresión,3848,4269,421,10.9,6738
+3,C0421,Producción,Operario de línea,Operativo,Mujer,Compresión,3850,4269,419,10.9,6706
+3,C0332,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4264,4722,458,10.7,7330
+3,C0247,Producción,Operario de línea,Operativo,Hombre,Compresión,3863,4269,406,10.5,6498
+3,C0265,Producción,Operario de línea,Operativo,Hombre,Compresión,3862,4269,407,10.5,6514
+3,C0352,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4274,4722,448,10.5,7170
+3,C0291,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4279,4722,443,10.4,7090
+3,C0237,Producción,Operador de llenadora,Operativo,Mujer,Compresión,4236,4662,426,10.1,6818
+3,C0284,Producción,Operario de línea,Operativo,Mujer,Compresión,3878,4269,391,10.1,6258
+3,C0405,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4233,4662,429,10.1,6866
+3,C0178,Producción,Operario de línea,Operativo,Mujer,Compresión,3892,4269,377,9.7,6034
+3,C0264,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4315,4722,407,9.4,6514
+3,C0377,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4266,4662,396,9.3,6338
+3,C0409,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4321,4722,401,9.3,6418
+3,C0175,Producción,Operario de línea,Operativo,Hombre,Compresión,3911,4269,358,9.2,5730
+3,C0381,Producción,Operario de línea,Operativo,Mujer,Compresión,3912,4269,357,9.1,5714
+3,C0394,Producción,Operario de línea,Operativo,Mujer,Compresión,3925,4269,344,8.8,5506
+3,C0313,Producción,Operario de línea,Operativo,Hombre,Compresión,3926,4269,343,8.7,5490
+3,C0301,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4326,4662,336,7.8,5378
+3,C0232,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4383,4722,339,7.7,5426
+3,C0362,Producción,Operario de línea,Operativo,Hombre,Compresión,3968,4269,301,7.6,4818
+3,C0293,Producción,Operario de línea,Operativo,Hombre,Compresión,3983,4269,286,7.2,4577
+3,C0161,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4427,4722,295,6.7,4722
+3,C0228,Producción,Operario de línea,Operativo,Hombre,Compresión,4001,4269,268,6.7,4289
+3,C0271,Producción,Operario de línea,Operativo,Hombre,Compresión,4001,4269,268,6.7,4289
+3,C0412,Producción,Operario de línea,Operativo,Hombre,Compresión,4017,4269,252,6.3,4033
+3,C0275,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4450,4722,272,6.1,4353
+3,C0249,Producción,Operario de línea,Operativo,Mujer,Compresión,4034,4269,235,5.8,3761
+3,C0398,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4406,4662,256,5.8,4097
+3,C0168,Producción,Operario de línea,Operativo,Mujer,Compresión,4037,4269,232,5.7,3713
+3,C0225,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4476,4722,246,5.5,3937
+3,C0295,Producción,Operador de llenadora,Operativo,Mujer,Compresión,4425,4662,237,5.4,3793
+3,C0311,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4433,4662,229,5.2,3665
+3,C0187,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4435,4662,227,5.1,3633
+3,C0144,Producción,Operario de línea,Operativo,Mujer,Compresión,4067,4269,202,5.0,3233
+3,C0169,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4469,4662,193,4.3,3089
+3,C0376,Producción,Operario de línea,Operativo,Hombre,Compresión,4097,4269,172,4.2,2753
+3,C0077,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4481,4662,181,4.0,2897
+3,C0133,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4546,4722,176,3.9,2817
+3,C0029,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4497,4662,165,3.7,2641
+3,C0274,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4555,4722,167,3.7,2673
+3,C0244,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4503,4662,159,3.5,2545
+3,C0135,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4579,4722,143,3.1,2289
+3,C0149,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4584,4722,138,3.0,2209
+3,C0084,Producción,Operario de línea,Operativo,Hombre,Compresión,4147,4269,122,2.9,1953
+3,C0160,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4534,4662,128,2.8,2049
+3,C0181,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4592,4722,130,2.8,2081
+3,C0269,Producción,Operario de línea,Operativo,Hombre,Compresión,4152,4269,117,2.8,1873
+3,C0096,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4599,4722,123,2.7,1969
+3,C0223,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4600,4722,122,2.7,1953
+3,C0129,Producción,Operario de línea,Operativo,Mujer,Compresión,4161,4269,108,2.6,1729
+3,C0069,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4553,4662,109,2.4,1745
+3,C0132,Producción,Operario de línea,Operativo,Hombre,Compresión,4173,4269,96,2.3,1536
+3,C0255,Producción,Operario de línea,Operativo,Hombre,Compresión,4183,4269,86,2.1,1376
+3,C0104,Logística y Distribución,Chofer repartidor,Operativo,Hombre,Compresión,4638,4722,84,1.8,1344
+3,C0254,Producción,Operario de línea,Operativo,Hombre,Compresión,4199,4269,70,1.7,1120
+3,C0031,Producción,Operador de llenadora,Operativo,Hombre,Compresión,4592,4662,70,1.5,1120
+3,C0173,Producción,Operario de línea,Operativo,Hombre,Compresión,4228,4269,41,1.0,656
+3,C0155,Producción,Operario de línea,Operativo,Hombre,Compresión,4234,4269,35,0.8,560
+3,C0154,Producción,Operario de línea,Operativo,Mujer,Compresión,4242,4269,27,0.6,432
